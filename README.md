@@ -1,5 +1,6 @@
 # flutter_perms
 
+Flutter Permissions App
 A new Flutter project.
 
 ## Getting Started
